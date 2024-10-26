@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.132e1796.css",
+    "main.js": "/static/js/main.42d77590.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/coursera.png": "/static/media/coursera.a686a3d1b6b6fda38d2a.png",
+    "static/media/pc.png": "/static/media/pc.06ad21ea51446dc1062f.png",
+    "static/media/Vs.png": "/static/media/Vs.19edc3fbac1c451f289d.png",
+    "static/media/minecraft.png": "/static/media/minecraft.f1a564144b273b21dc73.png",
+    "static/media/pg.png": "/static/media/pg.9f8f5cd98ce5726b002f.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.b32f0e8312a54b2a3f68.png",
+    "static/media/js.png": "/static/media/js.e60d6ef815a7eafe1a34.png",
+    "static/media/css.png": "/static/media/css.719a346680203f492c31.png",
+    "static/media/htmlCssCert.png": "/static/media/htmlCssCert.0222ae32ab0bd653cb93.png",
+    "static/media/esp32Marauder.png": "/static/media/esp32Marauder.8e3f7f4390548b5f9416.png",
+    "static/media/github.png": "/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/smartRoom.png": "/static/media/smartRoom.75e10b88a35d5d1883bb.png",
+    "static/media/pre.svg": "/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "static/media/networkScanner.png": "/static/media/networkScanner.38c29a79d94dafed4690.png",
+    "static/media/ecom.png": "/static/media/ecom.1f778f2b5526cd0e8112.png",
+    "static/media/chorme.svg": "/static/media/chorme.76eb99c03649b560eca4188fff132dcf.svg",
+    "index.html": "/index.html",
+    "main.132e1796.css.map": "/static/css/main.132e1796.css.map",
+    "main.42d77590.js.map": "/static/js/main.42d77590.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132e1796.css",
+    "static/js/main.42d77590.js"
+  ]
+}
